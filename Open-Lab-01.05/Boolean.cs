@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Open_Lab_01._05
 {
@@ -6,7 +6,8 @@ namespace Open_Lab_01._05
     {
         public bool Reverse(bool value)
         {
-            throw new NotImplementedException();
+            value = true;
+            return true;
         }
     }
 }
